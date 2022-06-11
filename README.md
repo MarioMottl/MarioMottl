@@ -2,6 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioMottl&show_icons=true)
 
 ## Contact me
+[!LinkedIn](https://www.linkedin.com/in/mario-mottl-533074231/)
 * mariomottl17@gmail.com
 ## Languages and tools
 
